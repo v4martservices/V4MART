@@ -22,9 +22,10 @@ const About = () => {
         <div className="col">
           <h2>Our Journey</h2>
           <p>
-            Our journey began in 2024, when our founder, Vipul Jain, envisioned
-            a platform where customers could find everything they need in one
-            place, without compromising on quality or convenience.
+            Our journey began in 2024, when our founder, Vipul Jain,Vishal Katariya,
+            Vivek Gupta and Vishal Sharma envisioneda platform where customers 
+            could find everything they need in one place, without compromising
+            on quality or convenience.
           </p>
           <p>
             Since then, V4Mart has grown from a small startup to a thriving
